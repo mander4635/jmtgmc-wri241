@@ -6,9 +6,9 @@
 
 /* variables needed from Bootstrap */ 
 
-$white:    #f0ebda;
+$white:    #000 !default;
 $black:    #000 !default;
-$primary:       #7e8c54;
+$primary:       #7e8c54 !default;
 
 $min-contrast-ratio:   4.5 !default;
 $color-contrast-dark:      $black !default;
