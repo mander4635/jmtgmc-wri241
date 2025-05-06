@@ -11,7 +11,7 @@ credits: false
 
 {% include feature/nav-menu.html sections="The Glittering Mountains;Thorington's Rockies;Credits" %}
 
-{% include feature/image.html objectid="jmtgmc008" width="40" %}
+{% include feature/image.html objectid="jmtgmc008" width="25" %}
 
 ## The Glittering Mountains
 
@@ -46,4 +46,4 @@ Thorington not only constructs the bird's-eye geography of the Canadian Rockies,
 
 This project was created as the final for WRI241, a course in the Princeton University Writing Program in conjunction with Princeton University Special Collections. The format of this site is largely based off [CollectionBuilder](https://github.com/CollectionBuilder), an open source framework for creating digital collection and exhibition websites that was developed by faculty librarians at the University of Idaho Library following the [Lib-Static](https://lib-static.github.io/) methodology.
 
-{% include feature/image.html objectid="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Grand_Pacific_and_Ferris_Glacier.jpg/2560px-Grand_Pacific_and_Ferris_Glacier.jpg" caption="Mt.Barnard and Ferris Glacier, Yukon-Alaska Border, 2006" %}
+{% include feature/image.html objectid="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Grand_Pacific_and_Ferris_Glacier.jpg/2560px-Grand_Pacific_and_Ferris_Glacier.jpg" caption="Mt.Barnard and Ferris Glacier, Yukon-Alaska Border, 2006" width="25" %}
