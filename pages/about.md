@@ -11,6 +11,8 @@ credits: false
 
 {% include feature/nav-menu.html sections="The Glittering Mountains;Thorington's Rockies;Credits" %}
 
+{% include feature/image.html objectid="jmtgmc008" width="40" %}
+
 ## The Glittering Mountains
 
 <ins>James Monroe Thorington</ins> (1894-1989) was an opthamologist with a passion for mountaineering, serving as an active member in the American Alpine Club for over 60 years. Thorington spent 15 seasons in the Canadian Rocky Mountains, between modern-day Jasper and Banff National Parks. He was the first person to climb the Canadian Rockies in their entirety. Though Thorington frequently wrote about his travels, this project focuses on his book *The Glittering Mountains of Canada* (1925), which covers three of such expeditions:
@@ -23,9 +25,6 @@ Rather than describing these ascents chronologically, the book breaks Thorington
 Note that each "group" has at least one centrally located base camp, surrounded by at least four mountains: these "groups" appear to be invented by Thorington and only lightly take into account established provincial or geological boundaries. 
 
 Although some of the names of the features of the Candian Rockies have changed over time, many of the original mountain names were decided by Thorington and his party, as they were the only team who had surveyed the Canadian Rockies in full by 1925. For consistency, this project uses the names Thorington provides of the mountains he mentions. However, updated versions of *The Glittering Mountains* have been subsequently produced by the American Alpine Club; they continue to be used as a guidebook to this date.
-
-
-{% include feature/image.html objectid="jmtgmc008" width="50" caption="Thorington (left) after a successful ascent" %}
 
 ## Thorington's Rockies
 
@@ -41,9 +40,10 @@ One may question, then, if Thorington is truly attempting to convey the *mountai
 
 > *“The irresistible power of nature allows us, considered as sensuous beings, to recognize our powerlessness indeed, but at the same time reveals in us a capability, to judge ourselves as independent of nature, and a superiority over nature, upon which a self-preservation of a completely different kind is grounded, than is that which can be challenged by the nature outside us."* Kant, Critique of Aesthetic Judgement
 
-Thorington not only constructs the bird's-eye geography of the Canadian Rockies, he likewise constructs the place of humans within a geography. Inviting his audience to take up mountaineering, Thorington seems promote the Canadian Rockies as (in the words of De Certeau) both a *map*- a geography understood from outside a space- and a *tour*- a geography understood from inside a space. Therefore, Thorington ultimately breaks down the inaceesibility of the Canadian Rockies from all angles
+Thorington not only constructs the bird's-eye geography of the Canadian Rockies, he also constructs the place of humans within his geography. Inviting his audience to take up mountaineering, Thorington seems to promote the Canadian Rockies as (in the words of De Certeau) both a *map*- a geography understood from outside a space- and a *tour*- a geography understood from inside a space. Thorington ultimately breaks down the remoteness of the Canadian Rockies from all angles, letting the public into his vision of the mountain range as a destination for those willing to challenge themselves against the greatest of natural features.
 
 ## Credits
 
 This project was created as the final for WRI241, a course in the Princeton University Writing Program in conjunction with Princeton University Special Collections. The format of this site is largely based off [CollectionBuilder](https://github.com/CollectionBuilder), an open source framework for creating digital collection and exhibition websites that was developed by faculty librarians at the University of Idaho Library following the [Lib-Static](https://lib-static.github.io/) methodology.
 
+{% include feature/image.html objectid="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Grand_Pacific_and_Ferris_Glacier.jpg/2560px-Grand_Pacific_and_Ferris_Glacier.jpg" caption="Mt.Barnard and Ferris Glacier, Yukon-Alaska Border, 2006" %}
