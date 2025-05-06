@@ -25,7 +25,7 @@ Note that each "group" has at least one centrally located base camp, surrounded 
 
 Although some of the names of the features of the Candian Rockies have changed over time, many of the original mountain names were decided by Thorington and his party, as they were the only team who had surveyed the Canadian Rockies in full by 1925. For consistency, this project uses the names Thorington provides of the mountains he depicts. However, updated versions of *The Glittering Mountains* have been subsequently produced by the American Alpine Club; they continue to be used as a guidebook to this date.
 
-{% include feature/image.html objectid="jmtgmc008" width="50" alt="Thorington (left) at Mt. Nanga Parbat" %}
+{% include feature/image.html objectid="jmtgmc008" width="75" caption="Thorington (left) at Mt. Nanga Parbat" %}
 
 
 ## A note on Landscape
