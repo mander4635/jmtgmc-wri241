@@ -36,7 +36,6 @@ In a sense, Thorington thus has control over the geography of the Canadian Rocki
 
 One may question, then, if Thorington is truly attempting to convey the *mountains* to his audience. As much as his writing depicts the Canadian Rockies themselves, what he seems to moreso capture is the sublime: the fear-like feeling that nature is greater than us, we being merely a small part of it. We see Thorington time and time again as a little shadowed speck in an otherwise snowy landscape; there is no telling whether he has conquered the Canadian Rockies, or if the Rockies have conquered him.
 
-
 {% include feature/image.html objectid="jmtgmc017;jmtgmc005;jmtgmc011" %}
 
 > *“The irresistible power of nature allows us, considered as sensuous beings, to recognize our powerlessness indeed, but at the same time reveals in us a capability, to judge ourselves as independent of nature, and a superiority over nature, upon which a self-preservation of a completely different kind is grounded, than is that which can be challenged by the nature outside us."* Kant, Critique of Aesthetic Judgement
@@ -47,4 +46,4 @@ Thorington not only constructs the bird's-eye geography of the Canadian Rockies,
 
 This project was created as the final for WRI241, a course in the Princeton University Writing Program in conjunction with Princeton University Special Collections. The format of this site is largely based off [CollectionBuilder](https://github.com/CollectionBuilder), an open source framework for creating digital collection and exhibition websites that was developed by faculty librarians at the University of Idaho Library following the [Lib-Static](https://lib-static.github.io/) methodology.
 
-{% include feature/image.html objectid="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Grand_Pacific_and_Ferris_Glacier.jpg/2560px-Grand_Pacific_and_Ferris_Glacier.jpg" caption="Mt.Barnard and Ferris Glacier, Yukon-Alaska Border, 2006" width="30" %}
+{% include feature/image.html objectid="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Grand_Pacific_and_Ferris_Glacier.jpg/2560px-Grand_Pacific_and_Ferris_Glacier.jpg" caption="Mt.Barnard and Ferris Glacier, Yukon-Alaska Border, Wikimedia 2006" width="25" %}
