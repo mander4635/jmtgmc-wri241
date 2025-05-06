@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://th-thumbnailer.cdn-si-edu.com/3Drrhwpo1Syf74QJZdxX98LbiTE=/960x439/filters:focal(758x517:759x518)/https://tf-cmsv2-journeys-media.s3.amazonaws.com/filer/dc/af/dcaff49a-d515-4864-bd5d-3670d5b48d3e/can_banff_valleyofthetenpeaks_rockymountaineer.jpg" %}
+{% include feature/jumbotron.html objectid="https://vastphotos.com/files/uploads/photos/10306/high-resolution-mountains-and-lakes-l.jpg?v=20220712043521" %}
 
 {% include feature/nav-menu.html sections="James Monroe Thorington;A note on Landscape" %}
 
