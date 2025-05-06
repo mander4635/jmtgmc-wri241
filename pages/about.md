@@ -25,7 +25,7 @@ Note that each "group" has at least one centrally located base camp, surrounded 
 Although some of the names of the features of the Candian Rockies have changed over time, many of the original mountain names were decided by Thorington and his party, as they were the only team who had surveyed the Canadian Rockies in full by 1925. For consistency, this project uses the names Thorington provides of the mountains he mentions. However, updated versions of *The Glittering Mountains* have been subsequently produced by the American Alpine Club; they continue to be used as a guidebook to this date.
 
 
-{% include feature/image.html objectid="jmtgmc008" width="80" caption="Thorington (left) after a successful ascent" %}
+{% include feature/image.html objectid="jmtgmc008" width="50" caption="Thorington (left) after a successful ascent" %}
 
 ## Thorington's Rockies
 
@@ -33,16 +33,17 @@ Despite the increasing efficiency of planes and cars in the 1920s, the Canadian 
 
 In a sense, Thorington thus has control over the geography of the Canadian Rockies in the public eye. This geography is not based on objectivity– Thorington is far from a geoscientist– but rather based on narrative, the concept of adventure and the strength of the general public's imagination.
 
-> "No map of a river valley can visualize a Canadian forest, with laden horses swinging along in line; no plaster relief can ever make one understand the moods of mountains, half-hidden in cloud or towering in the many-hued glory of early morning… These trails are not for everyone, but for those who go there will result such memories 'as dreams are made on', and the reward is great enough." *Thorington, The Glittering Mountains (256).*
+> *"No map of a river valley can visualize a Canadian forest, with laden horses swinging along in line; no plaster relief can ever make one understand the moods of mountains, half-hidden in cloud or towering in the many-hued glory of early morning… These trails are not for everyone, but for those who go there will result such memories 'as dreams are made on', and the reward is great enough."* Thorington, The Glittering Mountains (256)
 
 One may question, then, if Thorington is truly attempting to convey the *mountains* to his audience. As much as his writing depicts the Canadian Rockies themselves, what he seems to moreso capture is the sublime: the fear-like feeling that nature is greater than us, we being merely a small part of it. We see Thorington time and time again as a little shadowed speck in an otherwise snowy landscape; there is no telling whether he has conquered the Canadian Rockies, or if the Rockies have conquered him.
 
 {% include feature/image.html objectid="jmtgmc017;jmtgmc005;jmtgmc011" %}
 
-> “The irresistible power of nature allows us, considered as sensuous beings, to recognize our powerlessness indeed, but at the same time reveals in us a capability, to judge ourselves as independent of nature, and a superiority over nature, upon which a self-preservation of a completely different kind is grounded, than is that which can be challenged by the nature outside us." *Kant, Critique of Aesthetic Judgement*
+> *“The irresistible power of nature allows us, considered as sensuous beings, to recognize our powerlessness indeed, but at the same time reveals in us a capability, to judge ourselves as independent of nature, and a superiority over nature, upon which a self-preservation of a completely different kind is grounded, than is that which can be challenged by the nature outside us."* Kant, Critique of Aesthetic Judgement
 
-Thorington not only constructs the bird's-eye geography of the Canadian Rockies, he likewise constructs the place of humans within a geography. Inviting his audience to take up mountaineering, Thorington seems promote the Canadian Rockies as (in the words of De Certeau) both a *map*- a geography understood from outside a space- and a *tour*- a geography understood from inside a space. Therefore, Thorington ultimately breaks down the inaceesibility of the Canadian Rockies from all angles...
+Thorington not only constructs the bird's-eye geography of the Canadian Rockies, he likewise constructs the place of humans within a geography. Inviting his audience to take up mountaineering, Thorington seems promote the Canadian Rockies as (in the words of De Certeau) both a *map*- a geography understood from outside a space- and a *tour*- a geography understood from inside a space. Therefore, Thorington ultimately breaks down the inaceesibility of the Canadian Rockies from all angles
 
 ## Credits
 
 This project was created as the final for WRI241, a course in the Princeton University Writing Program in conjunction with Princeton University Special Collections. The format of this site is largely based off [CollectionBuilder](https://github.com/CollectionBuilder), an open source framework for creating digital collection and exhibition websites that was developed by faculty librarians at the University of Idaho Library following the [Lib-Static](https://lib-static.github.io/) methodology.
+
